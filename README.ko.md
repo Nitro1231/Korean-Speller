@@ -20,8 +20,8 @@ Nitro0@naver.com
 이 맞춤법 검사기는 퍼블릭 도메인이며, 아무런 제제 없이 사용 가능합니다. 다만, 사용전 부디 부산대학교 인공지능연구소와 (주)나레인포테크에게 사용 허가를 받고 사용해 주세요.
 
 <div class="license_icons">
-<img src="https://creativecommons.org/images/chooser/chooser_cc.png">
-<img src="https://creativecommons.org/images/chooser/chooser_pd.png">
+<img src="https://creativecommons.org/images/deed/cc_blue_x2.png">
+<img src="https://creativecommons.org/images/deed/zero_blue_x2.png">
 </div>
 
 ##### 이 저작물은 [CC0 1.0 보편적 (CC0 1.0) 퍼블릭 도메인 기증](https://creativecommons.org/publicdomain/zero/1.0/deed.ko) 라이선스에 따라 이용할 수 있습니다.

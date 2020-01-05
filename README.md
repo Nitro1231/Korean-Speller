@@ -20,8 +20,8 @@ Nitro0@naver.com
 This Korean Speller is under the Public Domain License! Fell free to use this! JUST DON'T FORGET to ask permission to *Pusan National University Artificial Intelligence Lab and Narainfotech Co., Ltd* before you use!
 
 <div class="license_icons">
-<img src="https://creativecommons.org/images/chooser/chooser_cc.png">
-<img src="https://creativecommons.org/images/chooser/chooser_pd.png">
+<img src="https://creativecommons.org/images/deed/cc_blue_x2.png">
+<img src="https://creativecommons.org/images/deed/zero_blue_x2.png">
 </div>
 
 ##### This work is licensed under a [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
